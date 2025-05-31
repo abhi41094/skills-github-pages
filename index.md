@@ -12,7 +12,7 @@
   <!-- Navbar -->
   <header class="bg-white shadow-md sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-xl font-bold">John Doe PM</h1>
+      <h1 class="text-xl font-bold">Abhishek Gupta PM</h1>
       <nav class="space-x-4">
         <a href="#about" class="hover:text-blue-600">About</a>
         <a href="#portfolio" class="hover:text-blue-600">Portfolio</a>
@@ -125,7 +125,7 @@
 
   <!-- Footer -->
   <footer class="bg-white py-6 text-center text-sm text-gray-500">
-    <p>&copy; 2025 John Doe PM. All rights reserved.</p>
+    <p>&copy; 2025 ABhishek Gupta PM. All rights reserved.</p>
   </footer>
 
 </body>
